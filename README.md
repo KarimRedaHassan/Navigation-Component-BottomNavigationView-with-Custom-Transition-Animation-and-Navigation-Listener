@@ -40,7 +40,8 @@ Here is a complete code snippet
     @Override
     protected void onCreate(Bundle savedInstanceState) {
     ....
-    
+        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
+            
         bottomNav.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
@@ -102,7 +103,8 @@ Here is a complete code snippet
     @Override
     protected void onCreate(Bundle savedInstanceState) {
     ....
-    
+        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
+
         NavOptions navOptions = new NavOptions.Builder()
                 .setLaunchSingleTop(true)
                 .setEnterAnim(R.anim.slide_in_right)
