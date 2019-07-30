@@ -144,6 +144,17 @@ Here is a complete code snippet
     }
 
 
+# Worthy to be mentioned
+I have created a bug in the Google Issue Tracker to Support Applying Custom Transition Animations by sending a NavOptions along with the NavigationUI.setupWithNavController() method.
+
+Here is Google Team Reply:
+
+#### Status: Won't Fix (Intended Behavior)
+NavigationUI follows the material design guidelines, which specifically call for a cross fade animation between BottomNavigationView items (and, as we've confirmed with the material team, also is the case for DrawerLayout, etc): https://material.io/design/components/bottom-navigation.html#behavior
+
+Setting your own listener is indeed the correct approach if you want to deviate from the guidelines and what NavigationUI provides.
+
+https://issuetracker.google.com/issues/138665563
 
 
 # What's Next ?
