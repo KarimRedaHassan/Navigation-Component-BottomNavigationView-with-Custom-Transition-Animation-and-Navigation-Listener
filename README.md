@@ -167,6 +167,10 @@ Navigation-Component-OptionsMenu-with-Custom-Transition-Animation-and-Custom-Nav
 
 https://github.com/KarimRedaHassan/Navigation-Component-OptionsMenu-with-Custom-Transition-Animation-and-Custom-Navigation-Listener
 
+Navigation-Component-TabLayout-with-Custom-Transition-Animation-and-Custom-Navigation-Listener
+https://github.com/KarimRedaHassan/Navigation-Component-TabLayout-with-Custom-Transition-Animation-and-Navigation-Listener
+
+
 # Additional Resources
 
 https://developer.android.com/guide/navigation/navigation-getting-started
