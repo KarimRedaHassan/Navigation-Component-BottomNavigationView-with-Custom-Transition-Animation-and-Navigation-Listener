@@ -13,6 +13,8 @@ If you are familiar with Android Jetpack Navigation Component, you will find tha
 
 As you can see here, there is no much control for you over the way of communication between the NavController and BottomNavigationView. The NavigationUI class will handle everything for you starting with making the navigation when you press on a menu item, applying default animation for transition, updating the selected menu item in the BottomNavigationView.
 
+#### NOTE: For Navigation Component to work with the menu that your are creating in the BottomNavigationView, The Menu Item Id should match with the desired Destination Fragment Id
+
 But What if you want to do any of the following case scenarios:
 1. Allow menu items to have other functionalities rather than only moving through the available navigation destinations
 2. Applying Custom Transition Animation
