@@ -140,3 +140,32 @@ Here is a complete code snippet
         bottomNav.getMenu().getItem(0).setChecked(true);
         super.onBackPressed(); 
     }
+
+
+
+
+# What's Next ?
+
+Navigation-Component-DrawerLayout-with-Custom-Transition-Animation-and-Custom-Navigation-Listener
+
+https://github.com/KarimRedaHassan/Navigation-Component-DrawerLayout-with-Custom-Transition-Animation-and-Custom-Navigation-Listener
+
+Navigation-Component-OptionsMenu-with-Custom-Transition-Animation-and-Custom-Navigation-Listener
+
+https://github.com/KarimRedaHassan/Navigation-Component-OptionsMenu-with-Custom-Transition-Animation-and-Custom-Navigation-Listener
+
+# Additional Resources
+
+https://developer.android.com/guide/navigation/navigation-getting-started
+
+https://developer.android.com/guide/navigation/navigation-ui
+
+https://codelabs.developers.google.com/codelabs/android-navigation/index.html#0
+
+
+# Also See
+
+#### A Full List Of All My Tutorials
+
+https://github.com/KarimRedaHassan?tab=repositories
+
